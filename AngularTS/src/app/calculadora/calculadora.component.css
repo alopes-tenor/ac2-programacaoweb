@@ -1,0 +1,31 @@
+.input-group {
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+
+.input-group label {
+  margin-bottom: 5px;
+}
+
+.botao {
+  display: flex;
+  justify-content: center;
+  gap: 10px; /* Ajuste o valor conforme necessário para o espaçamento desejado */
+}
+
+.botao button {
+  margin: 0;
+}
+
+.resultado {
+  display: flex;
+  margin-top: 10px;
+  justify-content: center;
+}
+
+.calcular {
+  display: flex;
+  margin-top: 10px;
+  justify-content: center;
+}
